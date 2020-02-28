@@ -5,3 +5,7 @@
   * Basic Auth
   * Ant Matcher
   * Authorization with User Role
+  * Permission assign to Users 
+  * Permission Based Authentication
+  
+  

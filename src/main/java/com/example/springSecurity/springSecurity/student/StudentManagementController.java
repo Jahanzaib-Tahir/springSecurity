@@ -22,7 +22,8 @@ public class StudentManagementController {
 
     @PostMapping
     public void createNewStudent(@RequestBody Student student){
-        Students.add(student);
+
+        System.out.println("Post Added" + student);
     }
 
 
